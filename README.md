@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python, SQL and Azure
+I’m a programming newbie who's currently learning Python, SQL and Azure
 
 <!--
 **manic-miner/manic-miner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
