@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 [![Manic Miner's GitHub stats - Dark Theme](https://github-readme-stats.vercel.app/api?username=manic-miner&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/manic-miner/github-readme-stats#gh-dark-mode-only)
 
 [![Manic Miner's GitHub stats - Light Theme](https://github-readme-stats.vercel.app/api?username=manic-miner&show_icons=true&theme=transparent#gh-light-mode-only)](https://github.com/manic-miner/github-readme-stats#gh-light-mode-only)
+
+-->
