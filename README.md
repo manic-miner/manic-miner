@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a programming newbie who's currently learning Python, SQL and data pipelines.
+I’m a programming newbie who's currently learning Python, SQL and data pipelines/workflows.
 
 <!--
 **manic-miner/manic-miner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
